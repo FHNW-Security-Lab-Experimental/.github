@@ -21,11 +21,10 @@ This organization contains **experimental and unfinished code**. Projects here m
 - **Work-in-progress** research code
 - **Proof-of-concepts** before they mature
 
+
 ## 🔗 Related
 
-- 🔬 [FHNW Security Lab](https://github.com/FHNW-Security-Lab) - Our main research organization
-- 🎓 [FHNW Security Education](https://github.com/FHNW-security-education) - Educational materials
-- 📚 [FHNW Security Lab Student Projects](https://github.com/FHNW-Security-Lab-Student-Projects) - BSc/MSc projects
+- 🔬 [FHNW Security Lab](https://github.com/FHNW-Security-Lab) - Our research organization
 - 🌐 [FHNW](https://www.fhnw.ch) - University of Applied Sciences and Arts Northwestern Switzerland
 
 ---
