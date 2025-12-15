@@ -30,4 +30,4 @@ This organization contains **experimental and unfinished code**. Projects here m
 
 ---
 
-*Securing tomorrow's technology today through experimentation.*
+*Securing tomorrow's technology today*
